@@ -1,0 +1,21 @@
+{
+  "name": "Bunker26.Party.Samples.Editor",
+  "rootNamespace": "Bunker26.Party.Samples.Editor",
+  "references": [
+    "Bunker26.Party.Runtime",
+    "Bunker26.Party.Samples",
+    "Unity.InputSystem",
+    "Unity.UGUI"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

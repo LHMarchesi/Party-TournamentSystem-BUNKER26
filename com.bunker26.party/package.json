@@ -1,0 +1,29 @@
+{
+  "name": "com.bunker26.party",
+  "version": "0.4.1",
+  "displayName": "Bunker 26 Party",
+  "description": "Reusable local Party, persistent profiles, Unity Input System device ownership and per-profile/game/control-scheme rebinding.",
+  "unity": "2022.3",
+  "keywords": [
+    "bunker26",
+    "party",
+    "profiles",
+    "local-multiplayer"
+  ],
+  "samples": [
+    {
+      "displayName": "Party Setup Demo",
+      "description": "Inspector-driven Party UI with local profiles, gamepad join, per-game input definitions and interactive rebinding.",
+      "path": "Samples~/PartySetupDemo"
+    },
+    {
+      "displayName": "BA Runner Gameplay Integration",
+      "description": "Optional BA Runner-specific bridge for leader switching, PlayerInput control-scheme changes, movement and leader-only pause. Import only in BA Runner.",
+      "path": "Samples~/BARunnerIntegration"
+    }
+  ],
+  "dependencies": {
+    "com.unity.inputsystem": "1.7.0",
+    "com.unity.ugui": "1.0.0"
+  }
+}

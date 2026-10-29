@@ -1,0 +1,17 @@
+{
+  "name": "Bunker26.Party.Editor",
+  "rootNamespace": "Bunker26.Party.Editor",
+  "references": [
+    "Bunker26.Party.Runtime",
+    "Unity.InputSystem"
+  ],
+  "includePlatforms": ["Editor"],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
